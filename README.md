@@ -1,2 +1,2 @@
 # Hello_World
-这是我们的Hello_World
+This is my Hello_World repos.
